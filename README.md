@@ -24,3 +24,7 @@ Los archivos reutilizados en varias páginas están almacenados en: 'GestorDeInc
   
 __Iniciar sesión como administrador__  
 Debido a que solo un administrador puede crear otro administrador, en el sistema de login se ha implementado la creación de un administrador si la contraseña y usuario es 'admin' (sin comillas). Evitando la necesidad de crearlo desde la base de datos o manipulando el código.  
+
+### Uso
+![image](https://github.com/Helkya/Gestor-de-incidencias/blob/main/gif/admin.gif)  
+![image](https://github.com/Helkya/Gestor-de-incidencias/blob/main/gif/user.gif)  
