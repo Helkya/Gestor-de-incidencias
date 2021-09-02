@@ -1,17 +1,17 @@
 # Gestor-de-incidencias
 ### Funcionalidad
--Sistema de login y registro  
+- Sistema de login y registro  
 >  ->Autentificación  
 >  ->Autorización (administrador/usuario)  
 >  ->Cifrado de contraseña  
     
--Operaciones CRUD con base de datos  
+- Operaciones CRUD con base de datos  
 >  ->Visualización de usuarios, incidencias y comentarios  
 >  ->Crear usuarios, incidencias y comentarios  
 >  ->Actualizar el estado de la incidencia y los comentarios  
 >  ->Eliminar usuarios, incidencias y comentarios  
   
--Paginación de comentarios  
+- Paginación de comentarios  
   
 ### Configuración  
 _Base de datos_  
